@@ -1,0 +1,3 @@
+[submodule "NEPs"]
+	path = NEPs
+	url = git@github.com:thor314/NEPs.git
