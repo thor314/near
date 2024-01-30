@@ -7,3 +7,6 @@
 [submodule "near-credentials"]
 	path = near-credentials
 	url = git@github.com:thor314/near-credentials.git
+[submodule "nft-market"]
+	path = nft-market
+	url = git@github.com:thor314/nft-market.git
