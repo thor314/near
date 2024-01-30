@@ -10,3 +10,6 @@
 [submodule "nft-market"]
 	path = nft-market
 	url = git@github.com:thor314/nft-market.git
+[submodule "near-no-std-template"]
+	path = near-no-std-template
+	url = git@github.com:thor314/near-no-std-template.git
