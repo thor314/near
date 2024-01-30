@@ -13,3 +13,6 @@
 [submodule "near-no-std-template"]
 	path = near-no-std-template
 	url = git@github.com:thor314/near-no-std-template.git
+[submodule "near-bugs-and-examples"]
+	path = near-bugs-and-examples
+	url = git@github.com:thor314/near-bugs-and-examples.git
