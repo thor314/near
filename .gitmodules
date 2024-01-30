@@ -19,3 +19,6 @@
 [submodule "near-nft-standards"]
 	path = near-nft-standards
 	url = git@github.com:thor314/near-nft-standards.git
+[submodule "FungibleToken"]
+	path = FungibleToken
+	url = git@github.com:thor314/FungibleToken.git
