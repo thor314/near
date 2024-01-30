@@ -4,3 +4,6 @@
 [submodule "near-autonomy-poc"]
 	path = near-autonomy-poc
 	url = git@github.com:thor314/near-autonomy-poc.git
+[submodule "near-credentials"]
+	path = near-credentials
+	url = git@github.com:thor314/near-credentials.git
