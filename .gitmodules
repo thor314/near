@@ -16,3 +16,6 @@
 [submodule "near-bugs-and-examples"]
 	path = near-bugs-and-examples
 	url = git@github.com:thor314/near-bugs-and-examples.git
+[submodule "near-nft-standards"]
+	path = near-nft-standards
+	url = git@github.com:thor314/near-nft-standards.git
